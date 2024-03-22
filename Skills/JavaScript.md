@@ -1,10 +1,10 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` h
+  - `Function` k
+  - `Boolean` u
+  - `Number` h u
   - `BigInt`
   - `String`
   - `Symbol`
