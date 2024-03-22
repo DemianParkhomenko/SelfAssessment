@@ -1,11 +1,11 @@
 ## JavaScript
 
 - Language
-  - `Object` h
-  - `Function` k
-  - `Boolean` u
-  - `Number` h u
-  - `BigInt` h
+  - `Object`: 👂 heard
+  - `Function`: 🎓 known
+  - `Boolean`: 🖐️ used
+  - `Number` h: 🖐️ used
+  - `BigInt`: 👂 heard
   - `String`
   - `Symbol`
   - `Infinity`
